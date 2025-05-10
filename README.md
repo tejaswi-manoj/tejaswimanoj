@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I'm Tejaswi Manoj, an Electrical Engineering Junior at Georgia Tech.<br>
+#👋 Hi, I'm Tejaswi Manoj, an Electrical Engineering Junior at Georgia Tech:
 
 
 ## 🌐 Socials:
