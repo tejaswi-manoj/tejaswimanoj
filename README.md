@@ -1,11 +1,16 @@
-<div align="center">
+<h2>Hi, I'm Tejaswi Manoj 👋</h2>
 
-# 👋 Hi, I'm Tejaswi Manoj.
+I am an Electrical Engineering student at Georgia Tech.
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/tejaswi-manoj/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:tmanoj3@gatech.edu">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge" alt="Outlook Badge"/>
+  </a>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswi-manoj/) 
-
-# 💻 Tech Stack:
+### 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -15,13 +20,12 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tejaswi-manoj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tejaswi-manoj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswi-manoj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📈 GitHub Stats
+<p float="left">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=tejaswi-manoj&theme=dark&background=000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswi-manoj&layout=compact&theme=vision-friendly-dark" height="150" /> 
+</p>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=tejaswi-manoj&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
